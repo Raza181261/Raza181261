@@ -103,7 +103,3 @@ Hands-on, project-based MERN fellowship — building and deploying real web appl
 </p>
 
 ---
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raza181261" alt="raza181261 streak" />
-</p>
