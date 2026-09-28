@@ -21,7 +21,6 @@ systems — with hands-on experience across e-commerce, LMS/EdTech, and microser
 - 💬 Ask me about **React, Node.js, Microservices, and Data Structures**
 
 ---
-
 ### 🧰 Tools & Technologies
 
 **Languages**
@@ -69,6 +68,18 @@ systems — with hands-on experience across e-commerce, LMS/EdTech, and microser
 </p>
 
 *Also: Docker Hub, CI/CD pipelines, Agile Methodologies*
+
+**AI & LLM**
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="groq"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
+</p>
+
+*Also: RAG Pipelines, MCP Servers, Vector DB, A2A (Agent-to-Agent)*
 
 ---
 
